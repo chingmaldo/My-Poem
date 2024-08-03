@@ -3,6 +3,7 @@ My first Poem
 Purple
 Pink
 Orange
-Vlue
+Blue
+Green
 Red
 These are the color of the rainbow
